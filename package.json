@@ -1,6 +1,6 @@
 {
   "private": true,
-  "author": "Liu Kun <liukunup@163.com>",
+  "author": "Liu Kun <liukunup@outlook.com>",
   "scripts": {
     "dev": "umi dev",
     "build": "umi build",
